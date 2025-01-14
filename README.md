@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="![first](https://github.com/user-attachments/assets/13499765-74d7-464b-96c9-e1a831088b17)"/>
-</div>
+<img src="![first](https://github.com/user-attachments/assets/13499765-74d7-464b-96c9-e1a831088b17)"/>
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsnow-jun-0.github.io%2Fsnow-jun-0%2F&count_bg=%2379C83D&title_bg=%23555555&icon=adobeillustrator.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
