@@ -6,9 +6,7 @@
 
 
 
-[![snow-jun-0's GitHub stats](https://github-readme-stats.vercel.app/api?snow-jun-0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![snow-jun-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=snow-jun-0&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
