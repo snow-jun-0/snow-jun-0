@@ -20,7 +20,6 @@
 [![snow-jun-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=snow-jun-0&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjo8703)](https://solved.ac/wjo8703/)
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snow-jun-0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
