@@ -17,7 +17,6 @@
 ### Stat
 
 
-<br />
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjo8703)](https://solved.ac/wjo8703/)
 
 
