@@ -95,6 +95,19 @@ const junyoung = {
       🤖 11기부터 생성형 AI를 개발 전 과정에 활용</p>
     </td>
   </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <h3>데일리 플래너 (Daily Planner)</h3>
+      <p><b>구글 캘린더·할일과 양방향 동기화되는 개인 플래너 웹앱</b></p>
+      <p>가로형 시간표·할 일·D-Day·뽀모도로·습관·통계를<br/>한 화면에서 관리하는 모바일 우선 웹앱.</p>
+      <p>🧑‍💻 <b>기획·디자인·개발 전 과정 1인 진행</b><br/>
+      🔗 백엔드 없이 Google Calendar/Tasks API 직접 연동<br/>
+      🌗 CSS 변수 기반 다크모드 · endTime 기반 타이머<br/>
+      🚀 React 18 · TS · Vite · Tailwind · <a href="https://daily-planner-xi-two.vercel.app">Live</a> · <a href="https://github.com/snow-jun-0/daily-planner">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 <br/>
