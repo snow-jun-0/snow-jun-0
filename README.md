@@ -101,10 +101,6 @@ const junyoung = {
 
 ## 📊 Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=snow-jun-0&show_icons=true&hide_border=true&title_color=3D6BF5&icon_color=3D6BF5&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snow-jun-0&layout=compact&hide_border=true&title_color=3D6BF5&langs_count=8" alt="top-langs"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snow-jun-0&hide_border=true&ring=3D6BF5&fire=3D6BF5&currStreakLabel=3D6BF5" alt="streak"/>
