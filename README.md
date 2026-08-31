@@ -105,10 +105,6 @@ const junyoung = {
 <!-- ===================== STATS ===================== -->
 ## 📊 Stats
 
-<div align="center">
-  <img src="./contrib-heatmap.svg" width="100%" alt="contribution heatmap"/>
-</div>
-
 <!-- ===== CONTRIBUTION SNAKE (neon) ===== -->
 <!-- 뱀은 Generate Snake 액션이 output 브랜치에 그려줍니다. 액션 1회 실행 후 표시됩니다 -->
 <div align="center">
