@@ -119,20 +119,15 @@ const junyoung = {
   </picture>
 </div>
 
-<!-- ===== GITHUB STATS CARDS (theme-aware neon) ===== -->
+<!-- ===== GITHUB STATS (self-hosted neon · never breaks) ===== -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=snow-jun-0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF&bg_color=0D0221&card_width=480" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=snow-jun-0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=D300C5&icon_color=FF2A6D&text_color=1A0B2E&bg_color=FFFFFF&card_width=480" alt="github stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=snow-jun-0&layout=compact&langs_count=8&hide_border=true&title_color=05D9E8&text_color=D1F7FF&bg_color=0D0221&card_width=480" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snow-jun-0&layout=compact&langs_count=8&hide_border=true&title_color=D300C5&text_color=1A0B2E&bg_color=FFFFFF&card_width=480" alt="top languages" />
-  </picture>
+  <img src="./stats-card.svg" width="100%" alt="github stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snow-jun-0&hide_border=true&background=0D0221&border=FF2A6D&stroke=D300C5&ring=FF2A6D&fire=05D9E8&currStreakLabel=05D9E8&currStreakNum=D1F7FF&sideNums=D1F7FF&sideLabels=8B7FD6&dates=8B7FD6" alt="streak"/>
+  <a href="https://solved.ac/wjo8703/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjo8703&theme=dark" alt="solved.ac"/>
+  </a>
 </div>
 
 <br/>
