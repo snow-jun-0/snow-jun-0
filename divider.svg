@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="dline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff2a6d" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#d300c5" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#05d9e8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="dg" x="-20%" y="-400%" width="140%" height="900%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      @keyframes travel {0%{transform:translateX(-120px);}100%{transform:translateX(900px);}}
+      @keyframes bp {0%,100%{opacity:.5;}50%{opacity:1;}}
+      .spark{animation:travel 3.5s ease-in-out infinite;}
+      .ln{animation:bp 3s ease-in-out infinite;}
+    </style>
+  </defs>
+  <line class="ln" x1="60" y1="12" x2="840" y2="12" stroke="url(#dline)" stroke-width="2" filter="url(#dg)"/>
+  <circle class="spark" cx="0" cy="12" r="3.5" fill="#05f0ff" filter="url(#dg)"/>
+  <path d="M444 12 l6 -5 l6 5 l-6 5 z" fill="#ff2a6d" filter="url(#dg)"/>
+</svg>
