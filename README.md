@@ -1,35 +1,38 @@
-<!-- 상단 배너 (기존 이미지 유지) -->
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2fd79ac1-07f4-4802-91c3-8cd31a3e3378" width="100%" alt="banner"/>
+  <img src="./header-banner.svg" width="100%" alt="snow-jun-0 — Frontend Developer"/>
 </div>
-
-<h1 align="center">🧊 우준영 · snow-jun-0</h1>
 
 <p align="center">
   <a href="https://github.com/snow-jun-0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3D6BF5&center=true&vCenter=true&width=520&lines=Frontend+Developer+%7C+React+%26+TypeScript;%EA%B8%B0%ED%9A%8D%EC%9D%84+%EB%B0%B0%ED%8F%AC%EB%90%9C+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%ED%8C%80%EC%9D%B4+%EB%A9%88%EC%B6%94%EC%A7%80+%EC%95%8A%EA%B2%8C+%ED%9D%90%EB%A6%84%EC%9D%84+%EC%84%A4%EA%B3%84%ED%95%A9%EB%8B%88%EB%8B%A4" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2A6D&center=true&vCenter=true&width=520&lines=Frontend+Developer+%7C+React+%26+TypeScript;%EA%B8%B0%ED%9A%8D%EC%9D%84+%EB%B0%B0%ED%8F%AC%EB%90%9C+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%ED%8C%80%EC%9D%B4+%EB%A9%88%EC%B6%94%EC%A7%80+%EC%95%8A%EA%B2%8C+%ED%9D%90%EB%A6%84%EC%9D%84+%EC%84%A4%EA%B3%84%ED%95%A9%EB%8B%88%EB%8B%A4" alt="typing" />
   </a>
 </p>
 
+<!-- ===== SOCIAL BADGES (neon) ===== -->
 <p align="center">
+  <a href="https://github.com/snow-jun-0">
+    <img src="https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=05D9E8&labelColor=0d0221" height="28"/>
+  </a>&nbsp;
   <a href="https://velog.io/@snow-jun-0/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" height="26"/>
-  </a>
+    <img src="https://img.shields.io/badge/Velog-0d0221?style=for-the-badge&logo=velog&logoColor=05D9E8&labelColor=0d0221" height="28"/>
+  </a>&nbsp;
+  <a href="https://solved.ac/wjo8703/">
+    <img src="https://img.shields.io/badge/BOJ_solved.ac-0d0221?style=for-the-badge&logo=baekjoon&logoColor=D300C5&labelColor=0d0221" height="28"/>
+  </a>&nbsp;
   <a href="mailto:wjo8703@naver.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="26"/>
-  </a>
-  <img src="https://img.shields.io/badge/dongguk_univ-CS_23-141B2E?style=flat-square&logo=googlescholar&logoColor=white" height="26"/>
-  <img src="https://komarev.com/ghpvc/?username=snow-jun-0&style=flat-square&color=3D6BF5&label=visitors" height="26"/>
+    <img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=FF2A6D&labelColor=0d0221" height="28"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=snow-jun-0&style=for-the-badge&color=FF2A6D&labelColor=0d0221&label=VISITORS" height="28"/>
 </p>
 
-<!-- ▼▼▼ 추가: 공룡 아스키 초상화 (로드 시 한 줄씩 타이핑) ▼▼▼ -->
 <div align="center">
-  <img src="./ascii-portrait.svg" width="360" alt="ascii portrait"/>
+  <img src="./ascii-portrait.svg" width="340" alt="ascii portrait"/>
 </div>
-<!-- ▲▲▲ 추가 끝 ▲▲▲ -->
 
-<br/>
+<img src="./divider.svg" width="100%" alt="───"/>
 
+<!-- ===================== ABOUT ===================== -->
 ## 👋 About Me
 
 ```ts
@@ -47,45 +50,26 @@ const junyoung = {
 - 🌱 협업 프로세스(Git 컨벤션 · 이슈/PR 규칙 · AI 개발 도구)를 팀에 정착시키는 일에 관심이 많습니다.
 - ✍️ 배운 것은 [velog](https://velog.io/@snow-jun-0/posts)에 기록합니다.
 
-<br/>
+<img src="./divider.svg" width="100%" alt="───"/>
 
+<!-- ===================== STACK ===================== -->
 ## 🛠️ Tech Stack
 
-#### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="./tech-stack.svg" width="100%" alt="tech stack"/>
+  <br/>
+  <sub>+ Zustand · REST API · OAuth · Refresh Token</sub>
+</div>
 
-#### Language
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<img src="./divider.svg" width="100%" alt="───"/>
 
-#### Tools & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white"/>
-</p>
-
-<br/>
-
+<!-- ===================== PROJECTS ===================== -->
 ## 🎁 Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>투겟 (ToGet)</h3>
+      <h3>💠 투겟 (ToGet)</h3>
       <p><b>함께 만드는 선물 펀딩 웹 서비스</b></p>
       <p>여러 사람이 함께 돈을 모아 하나의 선물을 준비하고,<br/>마음을 담은 후기를 주고받는 웹앱.</p>
       <p>🧑‍✈️ <b>프론트엔드 팀장 겸 개발자</b> · FE 4인 리드<br/>
@@ -93,7 +77,7 @@ const junyoung = {
       🚀 React 19 · TS · Vite · Tailwind · TanStack Query</p>
     </td>
     <td width="50%" valign="top">
-      <h3>UMC (University MakeUs Challenge)</h3>
+      <h3>💠 UMC (University MakeUs Challenge)</h3>
       <p><b>10기 Web 파트 · 11기 도전 중</b></p>
       <p>React / TypeScript 주간 미션을 수행하며<br/>협업·배포 프로세스를 학습.</p>
       <p>🔁 useQuery · useInfiniteQuery · 최적화 훅<br/>
@@ -103,7 +87,7 @@ const junyoung = {
   </tr>
     <tr>
     <td width="50%" valign="top">
-      <h3>데일리 플래너 (Daily Planner)</h3>
+      <h3>💠 데일리 플래너 (Daily Planner)</h3>
       <p><b>구글 캘린더·할일과 양방향 동기화되는 개인 플래너 웹앱</b></p>
       <p>가로형 시간표·할 일·D-Day·뽀모도로·습관·통계를<br/>한 화면에서 관리하는 모바일 우선 웹앱.</p>
       <p>🧑‍💻 <b>기획·디자인·개발 전 과정 1인 진행</b><br/>
@@ -116,30 +100,45 @@ const junyoung = {
   </tr>
 </table>
 
-<br/>
+<img src="./divider.svg" width="100%" alt="───"/>
 
+<!-- ===================== STATS ===================== -->
 ## 📊 Stats
 
-<!-- ▼▼▼ 추가: 자체 호스팅 잔디 히트맵 (매일 자동 갱신 · 안 깨짐) ▼▼▼ -->
 <div align="center">
-  <img src="./contrib-heatmap.svg" width="90%" alt="contribution heatmap"/>
-</div>
-<!-- ▲▲▲ 추가 끝 ▲▲▲ -->
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snow-jun-0&hide_border=true&ring=3D6BF5&fire=3D6BF5&currStreakLabel=3D6BF5" alt="streak"/>
+  <img src="./contrib-heatmap.svg" width="100%" alt="contribution heatmap"/>
 </div>
 
+<!-- ===== CONTRIBUTION SNAKE (neon) ===== -->
+<!-- 뱀은 Generate Snake 액션이 output 브랜치에 그려줍니다. 액션 1회 실행 후 표시됩니다 -->
 <div align="center">
-  <a href="https://solved.ac/wjo8703/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjo8703" alt="solved.ac"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snow-jun-0/snow-jun-0/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snow-jun-0/snow-jun-0/output/snake-light.svg" />
+    <img width="100%" alt="snake eating my contributions" src="https://raw.githubusercontent.com/snow-jun-0/snow-jun-0/output/snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- ===== GITHUB STATS CARDS (theme-aware neon) ===== -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=snow-jun-0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=05D9E8&icon_color=FF2A6D&text_color=D1F7FF&bg_color=0D0221&card_width=480" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=snow-jun-0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=D300C5&icon_color=FF2A6D&text_color=1A0B2E&bg_color=FFFFFF&card_width=480" alt="github stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=snow-jun-0&layout=compact&langs_count=8&hide_border=true&title_color=05D9E8&text_color=D1F7FF&bg_color=0D0221&card_width=480" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snow-jun-0&layout=compact&langs_count=8&hide_border=true&title_color=D300C5&text_color=1A0B2E&bg_color=FFFFFF&card_width=480" alt="top languages" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snow-jun-0&hide_border=true&background=0D0221&border=FF2A6D&stroke=D300C5&ring=FF2A6D&fire=05D9E8&currStreakLabel=05D9E8&currStreakNum=D1F7FF&sideNums=D1F7FF&sideLabels=8B7FD6&dates=8B7FD6" alt="streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3D6BF5&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A6D,50:D300C5,100:05D9E8&height=110&section=footer" width="100%"/>
 </div>
 
 <!--
