@@ -22,6 +22,12 @@
   <img src="https://komarev.com/ghpvc/?username=snow-jun-0&style=flat-square&color=3D6BF5&label=visitors" height="26"/>
 </p>
 
+<!-- ▼▼▼ 추가: 공룡 아스키 초상화 (로드 시 한 줄씩 타이핑) ▼▼▼ -->
+<div align="center">
+  <img src="./ascii-portrait.svg" width="360" alt="ascii portrait"/>
+</div>
+<!-- ▲▲▲ 추가 끝 ▲▲▲ -->
+
 <br/>
 
 ## 👋 About Me
@@ -114,6 +120,11 @@ const junyoung = {
 
 ## 📊 Stats
 
+<!-- ▼▼▼ 추가: 자체 호스팅 잔디 히트맵 (매일 자동 갱신 · 안 깨짐) ▼▼▼ -->
+<div align="center">
+  <img src="./contrib-heatmap.svg" width="90%" alt="contribution heatmap"/>
+</div>
+<!-- ▲▲▲ 추가 끝 ▲▲▲ -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snow-jun-0&hide_border=true&ring=3D6BF5&fire=3D6BF5&currStreakLabel=3D6BF5" alt="streak"/>
