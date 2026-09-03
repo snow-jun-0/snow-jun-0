@@ -33,7 +33,7 @@
   <sub>⚔️ my Chaldea party · FGO servant sprites (© TYPE-MOON / FGO — fan use)</sub>
 </div>
 
-<img src="./assets/fate/divider.svg" width="100%" alt="───"/>
+<img src="./assets/fate/divider.svg?v=2" width="100%" alt="───"/>
 
 <!-- ===================== ABOUT ===================== -->
 <table>
@@ -58,7 +58,7 @@ const junyoung = {
 - 🌱 협업 프로세스(Git 컨벤션 · 이슈/PR 규칙 · AI 개발 도구)를 팀에 정착시키는 일에 관심이 많습니다.
 - ✍️ 배운 것은 [velog](https://velog.io/@snow-jun-0/posts)에 기록합니다.
 
-<img src="./assets/fate/divider.svg" width="100%" alt="───"/>
+<img src="./assets/fate/divider.svg?v=2" width="100%" alt="───"/>
 
 <!-- ===================== STACK ===================== -->
 <table>
@@ -91,7 +91,7 @@ const junyoung = {
 </p>
 <div align="center"><sub>+ REST API · OAuth · Refresh Token</sub></div>
 
-<img src="./assets/fate/divider.svg" width="100%" alt="───"/>
+<img src="./assets/fate/divider.svg?v=2" width="100%" alt="───"/>
 
 <!-- ===================== PROJECTS ===================== -->
 <table>
@@ -134,7 +134,7 @@ const junyoung = {
   </tr>
 </table>
 
-<img src="./assets/fate/divider.svg" width="100%" alt="───"/>
+<img src="./assets/fate/divider.svg?v=2" width="100%" alt="───"/>
 
 <!-- ===================== STATS ===================== -->
 <table>
@@ -155,10 +155,11 @@ const junyoung = {
   </picture>
 </div>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=snow-jun-0&show_icons=true&hide_border=true&title_color=E0B84C&icon_color=E0B84C&text_color=C8D2EC&bg_color=0B1226" alt="github stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snow-jun-0&layout=compact&hide_border=true&title_color=E0B84C&text_color=C8D2EC&bg_color=0B1226" alt="top languages"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/snow-jun-0?style=for-the-badge&logo=github&logoColor=E0B84C&label=FOLLOWERS&labelColor=0B1226&color=2E5AAC" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/snow-jun-0?style=for-the-badge&logo=github&logoColor=E0B84C&label=STARS&labelColor=0B1226&color=E0B84C" height="28"/>
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=snow-jun-0&hide_border=true&background=0B1226&stroke=1E3466&ring=E0B84C&fire=E0B84C&currStreakLabel=E0B84C&sideLabels=C8D2EC&currStreakNum=C8D2EC&sideNums=C8D2EC&dates=7C89B0&excludeDaysLabel=7C89B0" alt="streak"/>
